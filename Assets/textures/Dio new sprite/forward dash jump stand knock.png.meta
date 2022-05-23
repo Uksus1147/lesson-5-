@@ -1,0 +1,843 @@
+fileFormatVersion: 2
+guid: 215fecebf52fc42408e6797834f32d6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: forward dash jump stand knock_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 396
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceab9f63eefc404b85f552f40ae5d9f
+      internalID: 1346687068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 405
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3209965b08a9d408fd95643f094865
+      internalID: -2101725132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 409
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de080f17bb3bf6d4fbd3e9820c81c7cf
+      internalID: 1549033201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_3
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 418
+        width: 120
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81038963df660f44b9aae107167b4e5b
+      internalID: -1930832589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 431
+        width: 120
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaff0cd46d0df847bb0218a59ebc9ef
+      internalID: 603569757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 414
+        width: 114
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c308dde99d6442b8a3c1f16dfc599
+      internalID: -1771349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_6
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 416
+        width: 114
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86f637384715db4bad2ece24cb7e7f1
+      internalID: 779484433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 396
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a597cdf7470d44b8c39f7951d7559f
+      internalID: 585082362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 206
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08771e771db67408712212ab292c6a
+      internalID: -1857343222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 231
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4998a2bb5996479497d8d1af9441c
+      internalID: -1055330882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 231
+        width: 78
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502f0039ebe9ed45ad78c2cccd81b9e
+      internalID: -2122413825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 277
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59af635743d2f0740ade0ee226af0a9b
+      internalID: 2102583599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 283
+        width: 83
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a61941b237ed9f409761b5be640fb4f
+      internalID: 1695048705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 287
+        width: 85
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7270615ab9afc41b3b269fa7da265c
+      internalID: 402623531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 278
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b53739919a112146b163fe4a478acec
+      internalID: 381474449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_15
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 246
+        width: 60
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195244e10d0835d488777844b7f4f87d
+      internalID: -2008721194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_16
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 233
+        width: 54
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d6e83d9911ed43af8b36b15ed21db
+      internalID: -2054979210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 233
+        width: 54
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1153353e87223847b75ea807e79b078
+      internalID: -772518459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 206
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf359421c1c3e4f40a7715cada8fffaa
+      internalID: 1894013661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 206
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21122cd15cf673244b12d9d1d58defef
+      internalID: -1828136778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_21
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 206
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d056daabe01c4191b2223b9830aa3
+      internalID: -308077203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3217df56dbb0464691c190defe68343
+      internalID: -1890387239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 28
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41410bfa6d2ae194aab2534dbc4359a2
+      internalID: -727215669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_28
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 28
+        width: 151
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d4976651fd6d24792162ab37d94870
+      internalID: -1336824301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_29
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 28
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9719f684efe864f8451c663b333326
+      internalID: 1666777609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 28
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cc91942614c84bafab377a0767ef9
+      internalID: 886130443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_31
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 28
+        width: 151
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7445178f70d484c99028b276cfe1cc
+      internalID: 53437296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_32
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 28
+        width: 128
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4943cb05fb1534f91effc67f0fb05f
+      internalID: -1650016290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_33
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 28
+        width: 102
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef9f746fb6513b4eb5f1ba3899b73c0
+      internalID: 84886429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_34
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 28
+        width: 103
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561984ef40d841c4d98f8bdc983a8fdd
+      internalID: -667566907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_35
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 27
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927bf9b4da06494aa3851c860904e67
+      internalID: 199981062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: forward dash jump stand knock_36
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 28
+        width: 87
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6737cde021bfa241ba9220b1d18df58
+      internalID: -1430775333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      forward dash jump stand knock_30: 886130443
+      forward dash jump stand knock_19: -1828136778
+      forward dash jump stand knock_7: 585082362
+      forward dash jump stand knock_12: 1695048705
+      forward dash jump stand knock_15: -2008721194
+      forward dash jump stand knock_26: -1890387239
+      forward dash jump stand knock_13: 402623531
+      forward dash jump stand knock_14: 381474449
+      forward dash jump stand knock_16: -2054979210
+      forward dash jump stand knock_6: 779484433
+      forward dash jump stand knock_24: 636801275
+      forward dash jump stand knock_8: -1857343222
+      forward dash jump stand knock_9: -1055330882
+      forward dash jump stand knock_22: -1572917231
+      forward dash jump stand knock_18: 1894013661
+      forward dash jump stand knock_32: -1650016290
+      forward dash jump stand knock_20: -419802489
+      forward dash jump stand knock_11: 2102583599
+      forward dash jump stand knock_31: 53437296
+      forward dash jump stand knock_3: -1930832589
+      forward dash jump stand knock_4: 603569757
+      forward dash jump stand knock_33: 84886429
+      forward dash jump stand knock_25: 485391621
+      forward dash jump stand knock_0: 1346687068
+      forward dash jump stand knock_5: -1771349540
+      forward dash jump stand knock_29: 1666777609
+      forward dash jump stand knock_23: -1020129552
+      forward dash jump stand knock_2: 1549033201
+      forward dash jump stand knock_28: -1336824301
+      forward dash jump stand knock_27: -727215669
+      forward dash jump stand knock_35: 199981062
+      forward dash jump stand knock_1: -2101725132
+      forward dash jump stand knock_34: -667566907
+      forward dash jump stand knock_17: -772518459
+      forward dash jump stand knock_36: -1430775333
+      forward dash jump stand knock_10: -2122413825
+      forward dash jump stand knock_21: -308077203
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

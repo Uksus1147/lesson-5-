@@ -1,0 +1,1054 @@
+fileFormatVersion: 2
+guid: 39344a6489e0cf54d8e69ef3ff6baa8b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 719
+        width: 207
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd2f9eba27d5674ca46ea049339fe93
+      internalID: -102777190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 719
+        width: 185
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4842446fe24d1141869b21dbf6acf1d
+      internalID: -1714964397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 719
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e48c98adaf8e046959e7873e5c17b0
+      internalID: -905850757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_5
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 719
+        width: 204
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19bafa6c8b9b9d4186dc09136d197da
+      internalID: 1250260366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_6
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 719
+        width: 203
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a546c740f1cd13d4dbd8bbe11789bb52
+      internalID: 1316316021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 719
+        width: 183
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1540baeed3f006b488b1b8738fbf04bc
+      internalID: -312033680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 719
+        width: 189
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91711811545be1d4a83f9082c12b56d1
+      internalID: 1722947230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 719
+        width: 187
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d6e698e16e76b40b9baec70b929238
+      internalID: 1984435218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_14
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 719
+        width: 167
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0733922b73e62c4bb1084c360cae9a9
+      internalID: 426787718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_16
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 719
+        width: 190
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b7c43daf0a5c64bae1d0adc2b7f279
+      internalID: 827214936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_21
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 538
+        width: 189
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6827e103f4e3c42b103c4beb1b7674
+      internalID: -1176306745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_22
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 538
+        width: 186
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab47393e08e63949a64839a61b219ea
+      internalID: -1667736769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_23
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 538
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a60fa8104eaa44a3f5b241f57f08f
+      internalID: 876996390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_26
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 538
+        width: 205
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3173cb779438646b79d4c38b4b6725
+      internalID: -746624522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 538
+        width: 206
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b81cd0e79a6ce45970f91d6c6d3417
+      internalID: 260872239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 538
+        width: 185
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7bbc503bf8344583281ad2e0d5d60
+      internalID: 1619722981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_33
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 538
+        width: 180
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43883953671e31448b24785a4ec4cdf
+      internalID: -256793122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 538
+        width: 167
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b5c7004a49b5342801afd203f433ab
+      internalID: 2144114898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_35
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 538
+        width: 191
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b56766ae7ea1498726caf42e3236b
+      internalID: 1126754681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_36
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 538
+        width: 201
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9bc154a6c48e04180dc6562d99bcb9
+      internalID: -356273683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_41
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 358
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ce5ed39aefb444b130856ae5167c5
+      internalID: -1814174315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_42
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 358
+        width: 192
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435df82870bc96d4ab26d0da5e101bf2
+      internalID: -1372533700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_45
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 358
+        width: 205
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4eb42e1280c7409971160799e01cf
+      internalID: 573984752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_47
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 358
+        width: 215
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b83b48dfd91684d8e95a88f86a4efb
+      internalID: 435643320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 358
+        width: 192
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f0a176e5a52f4abf1343e55db4452
+      internalID: 549087945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 358
+        width: 182
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b9893a03099824a8d861057c052480
+      internalID: -1439301422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_53
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 358
+        width: 188
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2110d50b943e73045b6f73d898e5eff3
+      internalID: 868521795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_54
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 358
+        width: 186
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dedf2413cf9b74a950b7bc217727d7
+      internalID: -586538555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_55
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 358
+        width: 167
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b4db142af1e884cbfd2d1ca2040d9f
+      internalID: 1404867923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 358
+        width: 203
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e0c3067d450b94f9361fd019df2c00
+      internalID: -273250098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_62
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 176
+        width: 181
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a2b72c412c7bc4fbf14f679d831e96
+      internalID: -1634557551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_63
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 176
+        width: 193
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b35c8160709240b1b658793f0a8af
+      internalID: -1294054259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_66
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 176
+        width: 205
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c0dc2cec4ca3649a41c851b196fd59
+      internalID: 1992611367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_67
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 176
+        width: 202
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7867fe2b1327f4ba5af1216cf2ada9
+      internalID: 773348190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 176
+        width: 209
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7cb9bf33cbc348ab9a9d6be655501
+      internalID: -1848297787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_71
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 185
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cfaa3edff0c24c81910c40956726c
+      internalID: -1330804006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_72
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 176
+        width: 196
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c1d5f44e7a2c4e9282afc2f246401
+      internalID: -587446860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_74
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 176
+        width: 192
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9df1626b52605418abefe273d1374e
+      internalID: -611838533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_76
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 176
+        width: 166
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eed4bdbf9b45547922b5ede5ea783b
+      internalID: -51423470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stand MUDA MUDA MUDA 2 part.ong_77
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 176
+        width: 190
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b826e7aeabbd047b11f8f6aa8502fa
+      internalID: 737525898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Stand MUDA MUDA MUDA 2 part.ong_43: -1521971820
+      Stand MUDA MUDA MUDA 2 part.ong_74: -611838533
+      Stand MUDA MUDA MUDA 2 part.ong_33: -256793122
+      Stand MUDA MUDA MUDA 2 part.ong_58: -239841225
+      Stand MUDA MUDA MUDA 2 part.ong_59: -1544225797
+      Stand MUDA MUDA MUDA 2 part.ong_62: -1634557551
+      Stand MUDA MUDA MUDA 2 part.ong_15: -35814414
+      Stand MUDA MUDA MUDA 2 part.ong_61: 960833018
+      Stand MUDA MUDA MUDA 2 part.ong_50: -695623635
+      Stand MUDA MUDA MUDA 2 part.ong_69: -1848297787
+      Stand MUDA MUDA MUDA 2 part.ong_18: 328864562
+      Stand MUDA MUDA MUDA 2 part.ong_79: 1484460946
+      Stand MUDA MUDA MUDA 2 part.ong_26: -746624522
+      Stand MUDA MUDA MUDA 2 part.ong_47: 435643320
+      Stand MUDA MUDA MUDA 2 part.ong_65: -1061444170
+      Stand MUDA MUDA MUDA 2 part.ong_19: -1322649938
+      Stand MUDA MUDA MUDA 2 part.ong_71: -1330804006
+      Stand MUDA MUDA MUDA 2 part.ong_41: -1814174315
+      Stand MUDA MUDA MUDA 2 part.ong_2: -905850757
+      Stand MUDA MUDA MUDA 2 part.ong_16: 827214936
+      Stand MUDA MUDA MUDA 2 part.ong_13: -1127869637
+      Stand MUDA MUDA MUDA 2 part.ong_68: 1535706871
+      Stand MUDA MUDA MUDA 2 part.ong_7: -1224106587
+      Stand MUDA MUDA MUDA 2 part.ong_52: -1439301422
+      Stand MUDA MUDA MUDA 2 part.ong_63: -1294054259
+      Stand MUDA MUDA MUDA 2 part.ong_53: 868521795
+      Stand MUDA MUDA MUDA 2 part.ong_42: -1372533700
+      Stand MUDA MUDA MUDA 2 part.ong_55: 1404867923
+      Stand MUDA MUDA MUDA 2 part.ong_24: 1608348926
+      Stand MUDA MUDA MUDA 2 part.ong_34: 2144114898
+      Stand MUDA MUDA MUDA 2 part.ong_72: -587446860
+      Stand MUDA MUDA MUDA 2 part.ong_39: 1438796101
+      Stand MUDA MUDA MUDA 2 part.ong_30: -1128181941
+      Stand MUDA MUDA MUDA 2 part.ong_77: 737525898
+      Stand MUDA MUDA MUDA 2 part.ong_14: 426787718
+      Stand MUDA MUDA MUDA 2 part.ong_78: 1927016185
+      Stand MUDA MUDA MUDA 2 part.ong_70: 27127916
+      Stand MUDA MUDA MUDA 2 part.ong_57: -273250098
+      Stand MUDA MUDA MUDA 2 part.ong_21: -1176306745
+      Stand MUDA MUDA MUDA 2 part.ong_67: 773348190
+      Stand MUDA MUDA MUDA 2 part.ong_4: -1292622707
+      Stand MUDA MUDA MUDA 2 part.ong_37: -1051514961
+      Stand MUDA MUDA MUDA 2 part.ong_45: 573984752
+      Stand MUDA MUDA MUDA 2 part.ong_32: -1824632811
+      Stand MUDA MUDA MUDA 2 part.ong_29: 474003287
+      Stand MUDA MUDA MUDA 2 part.ong_73: -1803684969
+      Stand MUDA MUDA MUDA 2 part.ong_17: -777376366
+      Stand MUDA MUDA MUDA 2 part.ong_28: 260872239
+      Stand MUDA MUDA MUDA 2 part.ong_12: 1984435218
+      Stand MUDA MUDA MUDA 2 part.ong_25: -1826503959
+      Stand MUDA MUDA MUDA 2 part.ong_49: 549087945
+      Stand MUDA MUDA MUDA 2 part.ong_8: -28682836
+      Stand MUDA MUDA MUDA 2 part.ong_54: -586538555
+      Stand MUDA MUDA MUDA 2 part.ong_0: -102777190
+      Stand MUDA MUDA MUDA 2 part.ong_6: 1316316021
+      Stand MUDA MUDA MUDA 2 part.ong_56: -2097562461
+      Stand MUDA MUDA MUDA 2 part.ong_66: 1992611367
+      Stand MUDA MUDA MUDA 2 part.ong_36: -356273683
+      Stand MUDA MUDA MUDA 2 part.ong_38: 1405983780
+      Stand MUDA MUDA MUDA 2 part.ong_9: 2114173967
+      Stand MUDA MUDA MUDA 2 part.ong_35: 1126754681
+      Stand MUDA MUDA MUDA 2 part.ong_23: 876996390
+      Stand MUDA MUDA MUDA 2 part.ong_31: 1619722981
+      Stand MUDA MUDA MUDA 2 part.ong_64: 523246447
+      Stand MUDA MUDA MUDA 2 part.ong_10: -312033680
+      Stand MUDA MUDA MUDA 2 part.ong_48: 1782501847
+      Stand MUDA MUDA MUDA 2 part.ong_76: -51423470
+      Stand MUDA MUDA MUDA 2 part.ong_5: 1250260366
+      Stand MUDA MUDA MUDA 2 part.ong_27: 1040435433
+      Stand MUDA MUDA MUDA 2 part.ong_51: -1387945022
+      Stand MUDA MUDA MUDA 2 part.ong_22: -1667736769
+      Stand MUDA MUDA MUDA 2 part.ong_20: 614183689
+      Stand MUDA MUDA MUDA 2 part.ong_46: 373782172
+      Stand MUDA MUDA MUDA 2 part.ong_1: -1714964397
+      Stand MUDA MUDA MUDA 2 part.ong_11: 1722947230
+      Stand MUDA MUDA MUDA 2 part.ong_40: -1287617226
+      Stand MUDA MUDA MUDA 2 part.ong_60: 1508082881
+      Stand MUDA MUDA MUDA 2 part.ong_3: -2012050336
+      Stand MUDA MUDA MUDA 2 part.ong_75: 1265212947
+      Stand MUDA MUDA MUDA 2 part.ong_44: 1752606144
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

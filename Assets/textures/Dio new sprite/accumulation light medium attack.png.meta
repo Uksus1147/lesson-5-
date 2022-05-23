@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: fd95962795cb6f24abb6c055ca8b0716
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: accumulation light medium attack_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 397
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc064da6f9fc440b6247d191ad8080
+      internalID: -1325937754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 397
+        width: 68
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc3ce364925e674ab03110a095861e8
+      internalID: 940923941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 397
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05196c878608f0a418af06fc8ae8aec5
+      internalID: 1873141997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 397
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c886c04e48e4d034b8513578596d1817
+      internalID: -1881868158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 397
+        width: 68
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd68906de5bc71e47afdca112141cb60
+      internalID: -802901989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 397
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6060e397b9217b34493e37bfbcdec868
+      internalID: 310137930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 50
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301fdd3eed422c4d809b36b13476be4
+      internalID: 1781106453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 266
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897baa91740eab143b6124c3a383db01
+      internalID: 412722426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 266
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1e0866dfcabda418f026016f3899c1
+      internalID: 1651433919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 266
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525afb20459fd894fb88a388a7be5e99
+      internalID: -2118839732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 266
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e61ba665ace024418deb47ee43e57b4
+      internalID: -1412726251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf7679e2643a1743a827f127f233b52
+      internalID: -1769415111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 85
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d221359ceb27947a191953dbfac3ce
+      internalID: -1562410724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 136
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b708e69b6c0c545b5e3bfd48a0ce3f
+      internalID: -416066394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_24
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 136
+        width: 135
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9615a5a3b0ee34ab9900c4c7dbc51d
+      internalID: 2011860787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_25
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 136
+        width: 129
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6746e3ec71df54290d7706b9a6359a
+      internalID: -1888867999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 136
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc68710d8282be4f9af4a21366f44ee
+      internalID: 2035481065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_27
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 136
+        width: 128
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ed0418b5a62c489c153eb7c4319a4
+      internalID: -1238212854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_28
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 139
+        width: 139
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25511b73fc617af499570c85e9eac2f0
+      internalID: 1840824262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_29
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 142
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cfbe1dad5bac04c88554a535382171
+      internalID: 1764955400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_30
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 136
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957d20e57e644745a5070b97cbdd02a
+      internalID: 1053791246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_31
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 132
+        width: 67
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7db4711636a2e4999c34ca1896b83c
+      internalID: -1869477140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8129b634ab79e488e86645e208a2ca
+      internalID: 803743914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_33
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 6
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11bc40114a8bb448c13703c0bedfc1
+      internalID: 1800601009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_34
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 6
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e723cc16b2906148962971f2d624cdb
+      internalID: -345049357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_35
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 6
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6070181b764eb874cb6f997ebaaaa338
+      internalID: 831675966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9639b47ca794d6f40889157aa0d83bfc
+      internalID: -1707624947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 4
+        width: 122
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5846162ef1c5db48adc8adea6fd13b5
+      internalID: 183725191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 5
+        width: 122
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a2f1492b529d4b93fa82810c583a9
+      internalID: -1909477336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_42
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 6
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a140e3f518a64dac27288a69fa05f
+      internalID: 969140181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_43
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 6
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ecc7d564a9a842aeeb8aa78cdf6bc
+      internalID: -1398416016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_44
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 6
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82757a58abfe3d444a1d6f5cf1136143
+      internalID: 149083593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: accumulation light medium attack_45
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 7
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd923c07551b6134d91e9b299c3528c5
+      internalID: -948926959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      accumulation light medium attack_45: -948926959
+      accumulation light medium attack_20: -1254177525
+      accumulation light medium attack_49: 1318344648
+      accumulation light medium attack_23: -416066394
+      accumulation light medium attack_30: 1053791246
+      accumulation light medium attack_17: -1412726251
+      accumulation light medium attack_2: 1873141997
+      accumulation light medium attack_24: 2011860787
+      accumulation light medium attack_29: 1764955400
+      accumulation light medium attack_3: -1881868158
+      accumulation light medium attack_22: -1562410724
+      accumulation light medium attack_11: 1651433919
+      accumulation light medium attack_46: -872150615
+      accumulation light medium attack_27: -1238212854
+      accumulation light medium attack_19: 505905426
+      accumulation light medium attack_13: -1049288914
+      accumulation light medium attack_31: -1869477140
+      accumulation light medium attack_7: -1742890489
+      accumulation light medium attack_38: 366280042
+      accumulation light medium attack_5: 310137930
+      accumulation light medium attack_32: 803743914
+      accumulation light medium attack_12: -929821637
+      accumulation light medium attack_0: -1325937754
+      accumulation light medium attack_36: 180441778
+      accumulation light medium attack_33: 1800601009
+      accumulation light medium attack_34: -345049357
+      accumulation light medium attack_48: -2123667686
+      accumulation light medium attack_18: 1098009928
+      accumulation light medium attack_14: -1260411457
+      accumulation light medium attack_8: 1000404706
+      accumulation light medium attack_26: 2035481065
+      accumulation light medium attack_25: -1888867999
+      accumulation light medium attack_47: -736194657
+      accumulation light medium attack_10: 412722426
+      accumulation light medium attack_43: -1398416016
+      accumulation light medium attack_6: -2033869619
+      accumulation light medium attack_21: -1769415111
+      accumulation light medium attack_4: -802901989
+      accumulation light medium attack_15: 16774580
+      accumulation light medium attack_37: -2003449525
+      accumulation light medium attack_16: -2118839732
+      accumulation light medium attack_44: 149083593
+      accumulation light medium attack_39: -1707624947
+      accumulation light medium attack_41: -1909477336
+      accumulation light medium attack_40: 183725191
+      accumulation light medium attack_28: 1840824262
+      accumulation light medium attack_1: 940923941
+      accumulation light medium attack_42: 969140181
+      accumulation light medium attack_9: 1781106453
+      accumulation light medium attack_35: 831675966
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
